@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134819271802",
+    "project_id": "udacitynanodegree-login-sample",
+    "storage_bucket": "udacitynanodegree-login-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134819271802:android:525ee607c90ab037ab57c3",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134819271802-t4772mv5g99o7pnnqvu21aggbvdokvbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "8dd45f66cd0848ce3446b7bc1c0beb04a0ac1d13"
+          }
+        },
+        {
+          "client_id": "134819271802-q9csh09tiq10ae0p8vjamadelbhiipqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIN8TTn3XZi6tAILvra0WODj7yOlf3as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134819271802-q9csh09tiq10ae0p8vjamadelbhiipqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
